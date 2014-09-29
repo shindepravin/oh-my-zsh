@@ -77,3 +77,5 @@ export EDITOR='vim'
 # export SSH_KEY_PATH="~/.ssh/dsa_id"
 #
 
+alias goo='gnome-open'
+
